@@ -3,7 +3,7 @@ Contributors: vidishp, quanticedge
 Tags: first order discount, order discount, discount, woocommerce discount, free gift
 Requires at least: 3.0.1
 Donate link: https://ko-fi.com/vidish
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -36,6 +36,7 @@ First Order Discount Woocommerce allows admin to offer discount to their custome
 
 <strong>More plugins by WooExtend:</strong>
 <ul>
+<li><strong><a href="https://wordpress.org/plugins/build-your-own-basket-for-woocommerce">Build Your Own Basket for Woocommerce</a></strong></li>
 <li><strong><a href="https://wordpress.org/plugins/woo-bulk-order/">Woocommerce Bulk Order</a></strong></li>
 <li><strong><a href="https://wordpress.org/plugins/woo-combo-offers/">Woocommerce Combo Offers</a></strong></li>
 <li><strong><a href="https://wordpress.org/plugins/woo-product-category-discount/">Product Category Discount</a></strong></li>

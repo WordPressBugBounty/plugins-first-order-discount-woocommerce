@@ -5,7 +5,7 @@
  * Author URI: https://quanticedge.co.in/?utm-source=free-plugin&utm-medium=wooextend
  * Version: 1.23
  * Requires at least: 4.0
- * Tested up to: 6.5
+ * Tested up to: 6.8
  * Description: "First Order Discount Woocommerce" allows administrator to offer customers tempting promotions on their first purchase. Admin can offer either flat discount in terms of money or offer some products for free.
  * Text Domain: first-order-discount-woocommerce
  * Domain Path: /languages/
